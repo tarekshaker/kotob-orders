@@ -1,0 +1,13 @@
+/*.dataTable td [text="غير جاهزة"] {*/
+	/*background-color: #ff5156*/
+/*}*/
+
+/*!*$(".dataTable td").filter(function() {*!*/
+/*!*return $(this).text() === "جاهز";*!*/
+/*!*}).css('background-color','#8eff90');*!*/
+
+/*!*$(".dataTable td:contains('قيد التوصيل')").css('background-color','#fffe52');*!*/
+/*!*$(".dataTable td:contains('تم التحصيل')").css('background-color','#4ca64c');*!*/
+
+/*!*$(".dataTable td:contains('توصيل')").css('background-color','#fffe52');*!*/
+/*!*$(".dataTable td:contains('مكتبة')").css('background-color','#a3c1ff');*!*/
